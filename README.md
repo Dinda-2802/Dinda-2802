@@ -1,9 +1,10 @@
-<h1 align="center">Hi there, I'm Dinda 👋</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;I+am+a+passionate+developer;I+love+coding,+coffee+and+creativity!&center=true&size=24">
-</p>
+# Halo! 👋
 
----
+Saya Dinda, seorang developer yang suka ngoding sambil ngopi ☕anjayy.
+
+![Dinstyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinstyle&show_icons=true&theme=tokyonight)
+
+> "Code is poetry, and I'm writing my verse."
 
 ### 🧑‍💻 About Me
 
@@ -39,15 +40,6 @@
 ### 🐍 My GitHub Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/dinstyle/dinstyle/output/github-contribution-grid-snake.svg" alt="snake gif">
-</p>
-
----
-
-### 📫 Let's Connect
-<p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Dinstyle-blue?style=for-the-badge&logo=gmail"></a>
-  <a href="https://instagram.com/yourusername"><img src="https://img.shields.io/badge/Instagram-@dinstyle-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://github.com/dinstyle"><img src="https://img.shields.io/badge/GitHub-dinstyle-181717?style=for-the-badge&logo=github"></a>
 </p>
 
 ---
