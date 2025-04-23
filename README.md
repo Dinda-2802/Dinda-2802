@@ -8,7 +8,7 @@
 ### 💁‍♀️ About Me
 
 - 💻 I love building cute UI and clean backend systems
-- 🎀 Favorite tools: Java, HTML/CSS, GitHub, Canva
+- 🎀 Favorite tools: Java, Python, Canva
 - ✨ Currently exploring: Front-end + JavaFX
 - 💬 Let's be coding besties!
 
