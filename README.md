@@ -29,12 +29,6 @@
 
 ---
 
-### 🐍 Soft Snake Animation (Optional)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dinstyle/dinstyle/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
-
----
 
 ### 🧸 Pinky Badges
 <p align="center">
@@ -43,10 +37,4 @@
 </p>
 
 ---
-### 🐍 Snake Contribution
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dinstyle/dinstyle/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
-
 <p align="center"><i>"Code with love, design with heart. 💗"</i></p>
